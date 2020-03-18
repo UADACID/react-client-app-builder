@@ -2,6 +2,10 @@
 
 Client Builder owned by the METEOR platform to produce mobile applications with FLUTTER framework technology.
 
+### Screenshot
+
+![alt text](https://github.com/UADACID/react-client-app-builder/blob/master/ss.png)
+
 ### Installation
 
 This builder requires [Node.js](https://nodejs.org/) LTS to run.
